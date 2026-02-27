@@ -10,3 +10,9 @@
   padding: 20px;
   margin: 20%;
 }
+
+.contained {
+  width: 30%;
+  heigth: 30%;
+  border: 3px solid black;
+}
