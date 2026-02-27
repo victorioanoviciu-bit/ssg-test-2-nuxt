@@ -13,6 +13,6 @@
 
 .contained {
   width: 50%;
-  height: 50%;
+  <!-- height: 50%; -->
   border: 3px solid black;
 }
