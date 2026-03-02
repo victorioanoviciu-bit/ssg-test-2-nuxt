@@ -38,5 +38,5 @@ body {
 cum dorim mai mare sau mai mic )
 /* dimensiunile textului (font-size) au dimensiunile "parintelui - adica a tagului
 in care este inclus (in cursul documentului-este in "root"), cuprins in alt tag (ex:<div>)
-ramane cu setarile tag-ului (ex: 0,5px sant doar 8px, deci schimband font-size la "1em" avem
+ramane cu setarile tag-ului (ex: 0,5em sant doar 8px, deci schimband font-size la "1em" avem
 doar marimea de 8px) */
