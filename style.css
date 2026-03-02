@@ -20,3 +20,10 @@ body {
   height: 25%;
   border: 3px solid black;
 }
+
+/* absolute si relative */
+/* px, rem, em, % */
+/* px - absolute (scimband font-size in browser nu se intampla nimic */
+/+ rem, em - relative [ 1rem=16px (avem nevoie de a formata textul cu
+"rem" sau "em" si nu cu "px" ca sa poata fi vizualizat font-sizeul in browser
+cum dorim mai mare sau mai mic )
