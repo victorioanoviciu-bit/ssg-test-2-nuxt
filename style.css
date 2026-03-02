@@ -26,7 +26,7 @@ body {
 }
 
 .secondary-title {
-  font-size: 16px;
+  font-size: 1em;
 }
 
 /* absolute si relative */
@@ -35,3 +35,7 @@ body {
 /+ rem, em - relative [ 1rem=16px (avem nevoie de a formata textul cu
 "rem" sau "em" si nu cu "px" ca sa poata fi vizualizat font-sizeul in browser
 cum dorim mai mare sau mai mic )
+/* dimensiunile textului (font-size) au dimensiunile "parintelui - adica a tagului
+in care este inclus (in cursul documentului-este in "root"), cuprins in alt tag (ex:<div>)
+ramane cu setarile tag-ului (ex: 0,5px sant doar 8px, deci schimband font-size la "1em" avem
+doar marimea de 8px) */
