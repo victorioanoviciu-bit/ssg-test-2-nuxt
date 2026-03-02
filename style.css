@@ -1,5 +1,7 @@
-margin: 0px;
-padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
+}
 
 body {
   background-color: lightgrey;
@@ -10,7 +12,6 @@ body {
   height: 100px;
   background-color: aquamarine;
   }
-
 
 .contained {
   width: 25px;
