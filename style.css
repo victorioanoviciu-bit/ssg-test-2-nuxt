@@ -11,6 +11,8 @@ body {
   width: 100px;
   height: 100px;
   background-color: aquamarine;
+  padding: 20px;
+  margin: 20px;
   }
 
 .contained {
