@@ -48,6 +48,9 @@ doar marimea de 8px) */
   width: 10em;
   height: 10em;
 }
+.main-title{
+  font-size: 2em;
+}
 
 .block2{
   position: fixed;
@@ -58,7 +61,7 @@ doar marimea de 8px) */
 }
 
 .block3{
-  top: 0%;
+  top: 10em;
   position: sticky;
   background-color: cadetblue;
   width: 10em;
