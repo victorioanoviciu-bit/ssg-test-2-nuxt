@@ -42,6 +42,8 @@ ramane cu setarile tag-ului (ex: 0,5em sant doar 8px, deci schimband font-size l
 doar marimea de 8px) */
 
 .block1{
+  position: relative;
+  left: 20em;
   background-color: brown;
   width: 10em;
   height: 10em;
