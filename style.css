@@ -58,6 +58,8 @@ doar marimea de 8px) */
 }
 
 .block3{
+  top: 0%;
+  position: sticky;
   background-color: cadetblue;
   width: 10em;
   height: 10em;
