@@ -50,6 +50,8 @@ doar marimea de 8px) */
 }
 
 .block2{
+  position: fixed;
+  left: 15em;
   background-color: aquamarine;
   width: 10em;
   height: 10em;
