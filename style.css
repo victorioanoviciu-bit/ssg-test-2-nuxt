@@ -47,10 +47,13 @@ doar marimea de 8px) */
   background-color: brown;
   width: 10em;
   height: 10em;
-}
+
 .main-title{
+  position: relative;
+  left: 5em;
   font-size: 2em;
 }
+  }
 
 .block2{
   position: fixed;
