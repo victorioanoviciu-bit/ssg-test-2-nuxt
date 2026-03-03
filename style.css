@@ -50,7 +50,8 @@ doar marimea de 8px) */
 
 .main-title{
   position: relative;
-  left: 5em;
+  background-color: white;
+  left: 20em;
   font-size: 2em;
 }
   }
