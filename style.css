@@ -32,8 +32,7 @@ body {
 
 .3-title {
   font-size: 2em;
-  background-color: white;
-}
+  }
 
 /* absolute si relative */
 /* px, rem, em, % */
@@ -53,7 +52,7 @@ doar marimea de 8px) */
   width: 10em;
   height: 10em;
 
-.main-title{
+.3-title {
   position: relative;
   background-color: white;
   left: 20em;
