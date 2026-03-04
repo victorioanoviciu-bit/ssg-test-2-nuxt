@@ -51,14 +51,7 @@ doar marimea de 8px) */
   background-color: brown;
   width: 10em;
   height: 10em;
-
-<!-- .3-title {
-  position: relative;
-  background-color: white;
-  left: 20em;
-  font-size: 2em;
-} -->
-  }
+}
 
 .block2{
   position: fixed;
