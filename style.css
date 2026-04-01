@@ -1,6 +1,10 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: lightgrey;
 }
 
 .container {
@@ -8,6 +12,60 @@
   height: 100px;
   background-color: aquamarine;
   padding: 20px;
-  margin: 20%;
+  margin: 20px;
+  font-size: 0.5em;
+  }
+
+<<<<<<< HEAD
+=======
+.contained {
+  width: 25%;
+  height: 25%;
+  border: 3px solid black;
 }
 
+.main-title {
+  font-size: 1em;
+}
+
+.secondary-title {
+  font-size: 1em;
+}
+
+
+
+/* absolute si relative */
+/* px, rem, em, % */
+/* px - absolute (scimband font-size in browser nu se intampla nimic */
+/* rem, em - relative [ 1rem=16px (avem nevoie de a formata textul cu
+"rem" sau "em" si nu cu "px" ca sa poata fi vizualizat font-sizeul in browser
+cum dorim mai mare sau mai mic ) */
+/* dimensiunile textului (font-size) au dimensiunile "parintelui - adica a tagului
+in care este inclus (in cursul documentului-este in "root"), cuprins in alt tag (ex:<div>)
+ramane cu setarile tag-ului (ex: 0,5em sant doar 8px, deci schimband font-size la "1em" avem
+doar marimea de 8px) */
+
+.block1{
+  position: relative;
+  left: 20em;
+  background-color: brown;
+  width: 10em;
+  height: 10em;
+}
+
+.block2{
+  position: fixed;
+  left: 15em;
+  background-color: aquamarine;
+  width: 10em;
+  height: 10em;
+}
+
+.block3{
+  top: 10em;
+  position: sticky;
+  background-color: cadetblue;
+  width: 10em;
+  height: 10em;
+}
+>>>>>>> 1c630081c7173d2a9cf206c1267c22c6207125ef
